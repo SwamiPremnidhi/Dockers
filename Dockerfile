@@ -1,3 +1,0 @@
-From UBUNTU:20.04
-MAINTAINER  swami 
-WORKDIR /opt
